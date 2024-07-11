@@ -9,4 +9,4 @@ migrations/
 # Ignore environment variables
 .env
 
-.db
+*.db
